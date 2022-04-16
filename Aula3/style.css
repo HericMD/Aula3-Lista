@@ -1,0 +1,23 @@
+.container{
+    width: 60%;
+    margin: 20px auto 0px auto;
+    padding: 0px 20px 20px 20px;
+    border: solid black;
+    background-color: darkgreen
+}
+.removed{
+    color: gray;
+    text-decoration: line-through
+}
+ul, li{
+    list-style-type: none;
+    font-size: 20px;
+}
+body{
+    background-color: gray;
+    color: white
+}
+input{
+    padding: 5px 0px 5px 15px;
+    margin: 5px
+}
